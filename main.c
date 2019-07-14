@@ -7,7 +7,8 @@ int main()
 {
 
 
-	printf("test other some thing \n");
+	printf("test nother thing  some thing \n");
+
 
 
 
