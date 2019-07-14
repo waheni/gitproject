@@ -7,7 +7,7 @@ int main()
 {
 
 
-	printf("test some thing \n");
+	printf("test other some thing \n");
 
 
 
